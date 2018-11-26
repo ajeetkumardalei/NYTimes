@@ -4,8 +4,8 @@ The New York Times breaking news application
 By : Ajeet Kumar Dalei
 Date: 26.Nov.2018
 
-Steps
-=====
+Steps Involved
+===========
 
 step1: Go to https://developer.nytimes.com,
 Sign up and get NYT API key
